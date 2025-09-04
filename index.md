@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ "Vicki Develops Things" | capitalize }}
+title: Vicki Develops Things
 ---
 
 Wanna know more about [Not A Real-Word Game](https://boardgamegeek.com/boardgame/444449/not-a-real-word-game)?
