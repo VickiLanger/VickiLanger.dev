@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vicki Develops Things
+cover: /assets/images/teaser.png
 ---
 
 Wanna know more about [Not A Real-Word Game](https://boardgamegeek.com/boardgame/444449/not-a-real-word-game)?
